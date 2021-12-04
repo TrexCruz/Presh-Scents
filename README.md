@@ -1,5 +1,5 @@
 # Responsive-Ecommerce-Website
-Front-end for an e-commerce clothes selling website.
+Front-end for an e-commerce perfumes selling website.
 ## About
 1- It is a responsive webpage containing nice animations. <br />
 2- Contains a well authenticated contact, login and sinup froms.<br />
